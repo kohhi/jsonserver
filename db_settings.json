@@ -1,0 +1,15 @@
+{
+    "db_directory": "./data",
+    "port": 5134,
+    "responses": {
+        "post_status_code": 405,
+        "post_message_name": "error",
+        "post_message_value": "request forbidden",
+        "put_status_code": 405,
+        "put_message_name": "error",
+        "put_message_value": "request forbidden",
+        "delete_status_code": 405,
+        "delete_message_name": "error",
+        "delete_message_value": "request forbidden"
+    }
+}
